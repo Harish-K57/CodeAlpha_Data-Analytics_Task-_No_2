@@ -81,8 +81,8 @@ The objective of **Task 2: Exploratory Data Analysis (EDA)** is to understand th
 ---
 
 ## 🧑‍💻 Author
-**Siddhesh Khedekar**  
-BBA Student | Data Analysis & Finance
+**Harish Kawthalkar**  
+Data Analysis & Finance
 
 ---
 
